@@ -4,13 +4,13 @@
 
 ## Table of content
 
-- [About the project]()
-- [Tech Stack]()
-- [Screenshots]()
-- [Prerequisites]()
-- [Steps for installation]()
-- [Contributing]()
-- [License]()
+- [About the project](https://github.com/Aniket-508/Airbnb-clone#about-the-project-)
+- [Tech Stack](https://github.com/Aniket-508/Airbnb-clone#tech-stack-)
+- [Screenshots](https://github.com/Aniket-508/Airbnb-clone#screenshots-)
+- [Prerequisites](https://github.com/Aniket-508/Airbnb-clone#prerequisites-)
+- [Steps for installation](https://github.com/Aniket-508/Airbnb-clone#steps-for-installation-)
+- [Contributing](https://github.com/Aniket-508/Airbnb-clone#contributing-)
+- [License](https://github.com/Aniket-508/Airbnb-clone#license-)
 
 ## About The Project :
 I have tried to develop my own version of the famous Airbnb website. Please star this repo if you liked it ❤️.
